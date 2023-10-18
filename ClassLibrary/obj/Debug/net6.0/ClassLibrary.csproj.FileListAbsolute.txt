@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\Admin\Desktop\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\Со старого SSD\Labs\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\C#\Lab_01\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
